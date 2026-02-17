@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from 'react';
 import { useRouter } from 'next/navigation';
-import { calculateConfusionMatrix, calculateMetrics } from '@/lib/evaluation';
+// import { calculateConfusionMatrix, calculateMetrics } from '@/lib/evaluation';
 import jsPDF from 'jspdf';
 import autoTable from 'jspdf-autotable';
 
