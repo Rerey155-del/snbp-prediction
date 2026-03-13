@@ -148,7 +148,7 @@ export default function SiswaPage() {
                         onClick={handleLogout}
                         className="px-4 py-2 text-gray-700 hover:text-red-600 font-medium transition-colors"
                     >
-                        Keluar
+                        Logout
                     </button>
                 </div>
             </header>
